@@ -522,7 +522,7 @@ ol {
 -----------------------*/
 .work {
   overflow: hidden;
-  background: #003615;
+  background: #002903;
 }
 
 .work__gallery {
@@ -615,7 +615,7 @@ ol {
   Counter
 -----------------------*/
 .counter {
-  background: #003615;
+  background: #002903;
   height: 840px;
   padding-top: 380px;
   overflow: hidden;
@@ -783,7 +783,7 @@ ol {
   Latest
 -----------------------*/
 .latest {
-  background: #003615;
+  background: #002903;
   padding-bottom: 80px;
 }
 
@@ -826,7 +826,7 @@ ol {
 }
 .callto.sp__callto {
   padding-top: 0;
-  background: #003615;
+  background: #002903;
 }
 
 .callto__text h2 {
@@ -859,7 +859,7 @@ ol {
   Footer
 -----------------------*/
 .footer {
-  background: #003615;
+  background: #002903;
 }
 
 .footer__top {
@@ -1029,7 +1029,7 @@ ol {
   About
 -----------------------*/
 .about {
-  background: #003615;
+  background: #002903;
   padding-bottom: 150px;
 }
 
@@ -1130,7 +1130,7 @@ ol {
   Services
 -----------------------*/
 .services {
-  background: #003615;
+  background: #002903;
   padding-bottom: 60px;
   padding-top: 110px;
 }
@@ -1182,7 +1182,7 @@ ol {
   Services Page
 -----------------------*/
 .services-page {
-  background: #003615;
+  background: #002903;
   padding-bottom: 50px;
 }
 
@@ -1190,7 +1190,7 @@ ol {
   Logo
 -----------------------*/
 .logo {
-  background: #003615;
+  background: #002903;
   padding: 100px 20px;
 }
 
@@ -1203,7 +1203,7 @@ ol {
   Portfolio
 -----------------------*/
 .portfolio {
-  background: #003615;
+  background: #002903;
 }
 
 .portfolio__filter {
@@ -1212,15 +1212,16 @@ ol {
 }
 .portfolio__filter li {
   list-style: none;
-  font-size: 16px;
-  color: #adadad;
+  font-size: 18px;
+  color: #dcdcdc;
   margin-right: 5px;
   display: inline-block;
   cursor: pointer;
   padding: 6px 22px;
 }
 .portfolio__filter li.active {
-  border: 1px solid #10b201;
+  border: 2px solid #10b201;
+  border-radius: 3%;
 }
 .portfolio__filter li:last-child {
   margin-right: 0;
@@ -1348,7 +1349,7 @@ ol {
     Blog
 -----------------------*/
 .blog {
-  background: #003615;
+  background: #002903;
 }
 
 .blog__item {
@@ -1463,7 +1464,7 @@ ol {
   Blog Details
 -----------------------*/
 .blog-details {
-  background: #003615;
+  background: #002903;
 }
 
 .blog__details__text {
@@ -1680,7 +1681,7 @@ ol {
   Contact Widget
 -----------------------*/
 .contact-widget {
-  background: #003615;
+  background: #002903;
   padding-bottom: 70px;
 }
 
@@ -1721,7 +1722,7 @@ ol {
   Contact
 -----------------------*/
 .contact {
-  background: #003615;
+  background: #002903;
   padding-top: 0;
   overflow: hidden;
 }
